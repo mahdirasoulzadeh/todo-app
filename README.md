@@ -12,3 +12,5 @@ A small ToDo List app I made.
 1. Download or clone the project  
 2. Open `index.html` in your browser  
 3. Add your tasks and play with dark/light mode
+
+![Screenshot](screenshot.jpg)
